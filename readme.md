@@ -13,6 +13,16 @@ The flow of the request is index->controller->manager->entity in the current rem
 $ yarn install
 ```
 
+### Build
+```bash
+$ npm run build
+```
+
+### Lint
+```bash
+$ npm run lint
+```
+
 ### Contribute
 Fork this repo and contribute to it. Pull requests are encouraged.
 
