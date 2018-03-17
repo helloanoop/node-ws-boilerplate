@@ -1,0 +1,20 @@
+env: dev
+
+meta:
+  name: reminder
+
+server:
+  port: 8000
+
+auth:
+  secret: secret
+
+db:
+  tables:
+    reminders: reminder
+
+database:
+  host: '127.0.0.1'
+  user: 'root'
+  password: 'root123'
+  timezone: 'Asia/Kolkata'

@@ -1,0 +1,8 @@
+{
+    "presets": [
+        "node8"
+    ],
+    "plugins": [
+        "babel-plugin-add-module-exports"
+    ]
+}
