@@ -2,6 +2,12 @@
 
 NodeJS Boilerplate for building Web Services
 
+### Note
+This is still a work in progress. I am trying here to build a boilerplate based on the code of one of my node projects.
+
+The flow of the request is index->controller->manager->entity in the current reminders code.
+
+
 ### Install
 ```bash
 $ yarn install

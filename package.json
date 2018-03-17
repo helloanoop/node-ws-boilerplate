@@ -17,6 +17,7 @@
     "config": "^1.25.1",
     "cors": "^2.8.1",
     "express": "^4.14.1",
+    "hashmap": "^2.3.0",
     "joi": "^10.2.2",
     "js-yaml": "^3.7.0",
     "jsonwebtoken": "^7.3.0",
